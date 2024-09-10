@@ -1,5 +1,2 @@
-This is a to-do list application that aims to guide the user through the list
-and the actions involved within the list
-They can add items, delete items, view the list, and mark certain items as
-complete.
-I use while loops in the main function to ensure a smooth use of the application
+In order to run this code yourself, it may be best to run it in a virtual machine. You can find several different options online, many of them even free. First, you need to optimize your computer for the purpose of downloading and running a virtual machine. Then, you need to import the actual VM, then the rest should be pretty simple.
+You can use this program to create and update a to-do list
