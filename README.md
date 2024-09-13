@@ -1,2 +1,2 @@
 In order to run this code yourself, it may be best to run it in a virtual machine. You can find several different options online, many of them even free. First, you need to optimize your computer for the purpose of downloading and running a virtual machine. Then, you need to import the actual VM, then the rest should be pretty simple.
-You can use this program to create and update a to-do list
+I include a few functions and a while loop to iterate through the different menu options as the user wishes to do. The program can add, remove, and view tasks on a loop as the user explores it.
